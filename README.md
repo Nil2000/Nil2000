@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/?username=NIL2000&count_private=true&theme=tokyonight&showicons=true">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIL2000&langs_count=5&theme=tokyonight">
+
+[![An image of @nil2000's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nil2000)](https://holopin.io/@nil2000)
