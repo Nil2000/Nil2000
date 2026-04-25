@@ -12,6 +12,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://komarev.com/ghpvc/?username=nil2000&label=Profile%20views&color=0e75b6&style=flat" alt="nil2000" />
 
 [![An image of @nil2000's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nil2000)](https://holopin.io/@nil2000)
